@@ -1,0 +1,13 @@
+
+#inicio{
+    background-color: rgb(66, 94, 136);
+    width: 740px;
+    margin: auto;
+    padding: 10px;
+}
+
+#frases {
+    color:rgb(211, 216, 222);
+    font-size:18px;
+    font-weight: bold;
+}
